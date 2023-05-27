@@ -1,0 +1,125 @@
+2023-05-25 16:03:25.539 [info] Extension host with pid 3939 started
+2023-05-25 16:03:25.539 [info] Skipping acquiring lock for /home/k1bas4r0/.config/Code/User/workspaceStorage/fb589629ffe57c342238577138499adb.
+2023-05-25 16:03:25.727 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-25 16:03:25.802 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-25 16:03:25.901 [info] ExtensionService#_doActivateExtension anteprimorac.html-end-tag-labels, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-25 16:03:27.152 [info] ExtensionService#_doActivateExtension evgeniypeshkov.syntax-highlighter, startup: false, activationEvent: 'onLanguage:javascript'
+2023-05-25 16:03:27.245 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-25 16:03:27.506 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-25 16:03:27.546 [info] ExtensionService#_doActivateExtension vincaslt.highlight-matching-tag, startup: true, activationEvent: '*'
+2023-05-25 16:03:27.737 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-05-25 16:03:27.883 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-25 16:03:28.008 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-25 16:03:28.091 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-25 16:03:28.569 [info] Eager extensions activated
+2023-05-25 16:03:28.595 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:28.646 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:28.700 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:28.988 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:29.114 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:29.155 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:29.204 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 16:03:29.760 [error] Error: ENOENT: no such file or directory, open '/home/k1bas4r0/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-05-25 16:04:03.808 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-05-25 16:15:48.729 [info] ExtensionService#_doActivateExtension WallabyJs.console-ninja, startup: false, activationEvent: 'onStartupFinished'
+2023-05-25 19:42:42.474 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-25 19:42:42.636 [error] Canceled: Canceled
+	at new l (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/opt/VSCode-linux-x64/resources/app/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/opt/VSCode-linux-x64/resources/app/extensions/git/dist/main.js:2:1274494)
+	at /opt/VSCode-linux-x64/resources/app/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/opt/VSCode-linux-x64/resources/app/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/opt/VSCode-linux-x64/resources/app/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at T (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-05-25 19:42:42.639 [error] Canceled: Canceled
+	at new l (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at pu._clearLatestError (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:899402)
+	at pu.clearInlineMessagesAndLatestError (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:899258)
+	at pu._stopHost (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:911776)
+	at pu.dispose (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:919460)
+	at T (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-05-25 19:42:42.639 [error] Canceled: Canceled
+	at new l (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at pu._updateActiveEditorContext (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:879733)
+	at pu.clearInlineMessagesAndLatestError (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:899283)
+	at pu._stopHost (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:911776)
+	at pu.dispose (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:919460)
+	at T (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-05-25 19:42:42.640 [error] Canceled: Canceled
+	at new l (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/opt/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at pu._stopHost (/home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/extension/index.js:1:911976) setContext undefined
+2023-05-25 19:42:42.716 [error] Error: ENOENT: no such file or directory, open '/home/k1bas4r0/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2023-05-25 19:42:42.716 [info] Extension host with pid 3939 exiting with code 0

@@ -1,0 +1,3 @@
+#!/bin/sh
+export NODE_OPTIONS='--no-warnings --loader "file:///home/k1bas4r0/.console-ninja/.bin/loader.js"';
+$@

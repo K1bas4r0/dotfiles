@@ -1,0 +1,2 @@
+2023-05-25 13:21:04.168 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2023-05-25 13:21:04.248 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/b3e4e68a0bc097f0ae7907b217c1119af9e03435 - error undefined net::ERR_NAME_NOT_RESOLVED

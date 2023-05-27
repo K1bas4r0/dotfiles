@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true
+}

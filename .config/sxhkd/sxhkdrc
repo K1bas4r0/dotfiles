@@ -159,7 +159,7 @@ super + F11
 #ss
 
 super + v
-	scrot /home/k1bas4r0/Imágenes/shots/ss
+	scrot /home/k1bas4r0/Imágenes/shots/ss.png
 
 super + shift + c
 	~/thunderbird/thunderbird

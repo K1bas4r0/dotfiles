@@ -26,6 +26,7 @@ call plug#begin('~/.config/nvim/plugged')
         Plug 'mhinz/vim-signify'
         " Autoclose tags
         Plug 'alvan/vim-closetag'
+
         " Ranger
         Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
         " Fzf

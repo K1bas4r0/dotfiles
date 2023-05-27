@@ -6,7 +6,8 @@
     "graphql",
     "html",
     "yaml",
-    "json"
+    "json",
+    "python"
   ],
   "snippets.ultisnips.directories": [
     "UltiSnips",
@@ -25,5 +26,5 @@
     }
   },
   "explorer.icon.enableVimDevicons": true,
-  "clangd.path": "/home/antonio/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
+  "clangd.path": "/home/k1bas4r0/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
 }

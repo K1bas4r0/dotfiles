@@ -1,0 +1,12 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.linux": {},
+}

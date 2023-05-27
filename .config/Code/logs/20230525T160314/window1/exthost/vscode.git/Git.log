@@ -1,0 +1,21 @@
+2023-05-25 16:03:28.405 [info] Log level: Info
+2023-05-25 16:03:28.405 [info] Validating found git in: "git"
+2023-05-25 16:03:28.544 [info] Using git "2.40.1" from "git"
+2023-05-25 16:03:29.770 [info] > git rev-parse --show-toplevel [1203ms]
+2023-05-25 16:03:29.969 [info] > git rev-parse --git-dir --git-common-dir [26ms]
+2023-05-25 16:03:29.988 [info] Open repository: /home/k1bas4r0/Escritorio/cursojs/Addtodo
+2023-05-25 16:03:30.006 [info] > git rev-parse --show-toplevel [11ms]
+2023-05-25 16:03:30.016 [info] > git rev-parse --show-toplevel [4ms]
+2023-05-25 16:03:30.065 [info] > git config --get commit.template [60ms]
+2023-05-25 16:03:30.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [287ms]
+2023-05-25 16:03:30.324 [info] > git ls-files --stage -- /home/k1bas4r0/Escritorio/cursojs/Addtodo/index.js [33ms]
+2023-05-25 16:03:30.421 [info] > git show --textconv :index.js [136ms]
+2023-05-25 16:03:30.422 [info] > git cat-file -s 70e2abc4183966e3a7ae4818107896b0503a1885 [92ms]
+2023-05-25 16:03:30.432 [info] > git status -z -uall [109ms]
+2023-05-25 16:03:30.449 [info] > git config --get commit.template [2ms]
+2023-05-25 16:03:30.458 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-05-25 16:03:30.466 [info] > git status -z -uall [1ms]
+2023-05-25 16:03:30.525 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-25 16:04:02.721 [info] > git check-ignore -v -z --stdin [1ms]
+2023-05-25 16:04:03.994 [info] > git show --textconv :.vscode/settings.json [6ms]
+2023-05-25 16:04:03.995 [info] > git ls-files --stage -- /home/k1bas4r0/Escritorio/cursojs/Addtodo/.vscode/settings.json [2ms]

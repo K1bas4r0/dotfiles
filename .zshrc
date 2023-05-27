@@ -58,17 +58,18 @@ alias la='lsd -a --group-dirs=first'
 alias l='lsd --group-dirs=first'
 alias lla='lsd -lha --group-dirs=first'
 alias ls='lsd --group-dirs=first'
+alias icat='kitty +kitten icat'
 alias cat='bat'
 alias tree='exa -T'
 alias vim='nvim'
-alias spotify='LD_PRELOAD=/usr/local/lib/spotify-adblock.so spotify'
+# alias spotify='LD_PRELOAD=/usr/local/lib/spotify-adblock.so spotify'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Plugins
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh-plugins/sudo.plugin.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/sudo.plugin.zsh
 
 # Functions
 function mkt(){
@@ -98,6 +99,29 @@ function man() {
     LESS_TERMCAP_ue=$'\e[0m' \
     LESS_TERMCAP_us=$'\e[01;32m' \
     man "$@"
+}
+
+#print comand Kitty
+function kittman(){
+	echo -e "\n[*]Super = Ctrl + Shift //"
+	echo -e "\tFunctios:
+		Open new window in this terminal 		 [Super + Intro]
+		Close this window 				 [Super + W]
+		Move into windows 				 [Super + Alt + Arrows]
+
+		Zoom in/out terminal			 	 [Super + Z]
+		Resize this window 				 [Super + R]
+
+		Open new tab 					 [Super + T]
+		Change name tab 				 [Super + Alt + T]
+		Move into tabs 					 [Super + Arrows]
+		Move this tab left 				 [Super + ,]
+		Move this tab rigth 			 	 [Super + .]
+
+		Font zoom in 					 [Super + Plus]
+		Font zoom out 					 [Super + Minus]
+
+		Open new terminal 				 [Super + N]"
 }
 
 # fzf improvement

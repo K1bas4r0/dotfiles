@@ -1,0 +1,4 @@
+"use strict";var n=Object.defineProperty;var i=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var d=Object.prototype.hasOwnProperty;var f=(r,e)=>{for(var o in e)n(r,o,{get:e[o],enumerable:!0})},l=(r,e,o,a)=>{if(e&&typeof e=="object"||typeof e=="function")for(let t of u(e))!d.call(r,t)&&t!==o&&n(r,t,{get:()=>e[t],enumerable:!(a=i(e,t))||a.enumerable});return r};var s=r=>l(n({},"__esModule",{value:!0}),r);var q={};f(q,{globalPreload:()=>m,load:()=>c});module.exports=s(q);function m(){return`const { createRequire } = getBuiltin('module');
+const require = createRequire('file:///home/k1bas4r0/.vscode/extensions/wallabyjs.console-ninja-0.0.125/out/buildHook/');
+require('./index.js').default({tool: 'node'});
+`}function c(r,e,o){return e&&!e.format&&r&&!r.toString().startsWith("node:")&&(e.format="commonjs"),o(r,e)}0&&(module.exports={globalPreload,load});
