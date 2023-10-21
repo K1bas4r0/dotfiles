@@ -1,32 +1,12 @@
-BraveSoftware
-Code - OSS
-Electron
-Foxit Software
-GIMP
-GeoGebra
-JetBrains
-KDE
-*.conf
-*.ini
-*.old
-*rc
-kde*
-m*
-r*
-u*
-xfce4
-starship
-spotify
-session
-qtile
-pulse
-ncmp*
-kn*
-kicad
-khtml
-gpick
-eD*
-dis*
-c*
-Thunar
-lib*
+# Ignore everything
+/*
+!.gitignore
+
+# Except for the files and folders we want to track
+!htop
+!kitty
+!nvim
+!picom
+!vifm
+!ranger
+!qtile

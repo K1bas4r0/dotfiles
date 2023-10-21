@@ -5,10 +5,14 @@
 # terminal emulator
 super + Return
    kitty
+
+# terminal auxilar
+super + ctrl + shift + Return
+   gnome-terminal
  
 # program launcher
 super + d
-    rofi -show drun
+    /home/k1bas4r0/.config/rofi/launchers/type-6/launcher.sh
  
 # make sxhkd reload its configuration files:
 super + Escape
@@ -165,7 +169,7 @@ super + shift + c
 	~/thunderbird/thunderbird
 
 
-#slimlock
+#screenlock
 
 super + F9
-	slimlock
+	dm-tool lock

@@ -6,7 +6,10 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.fontFamily": "Jetbrains Mono",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "One Dark Pro Darker",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Activate SCARLET protocol (beta)",
+    "workbench.iconTheme": "Monokai Pro (Filter Ristretto) Icons",
     "terminal.integrated.env.linux": {},
+    "git.openRepositoryInParentFolders": "always",
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDelete": false,
 }

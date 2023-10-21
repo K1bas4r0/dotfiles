@@ -52,6 +52,8 @@ source /home/k1bas4r0/powerlevel10k/powerlevel10k.zsh-theme
 
 PATH=/root/.local/bin:/snap/bin:/usr/sandbox/:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/share/games:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
 
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+
 # Manual aliases
 alias ll='lsd -lh --group-dirs=first'
 alias la='lsd -a --group-dirs=first'
@@ -62,14 +64,15 @@ alias icat='kitty +kitten icat'
 alias cat='bat'
 alias tree='exa -T'
 alias vim='nvim'
+alias bspwman='bat -l bash /home/k1bas4r0/.config/sxhkd/sxhkdrc'
 # alias spotify='LD_PRELOAD=/usr/local/lib/spotify-adblock.so spotify'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # Plugins
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /usr/share/zsh/plugins/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/sudo.plugin.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-sudo/sudo.plugin.zsh
 
 # Functions
 function mkt(){
