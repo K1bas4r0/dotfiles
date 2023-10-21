@@ -2,7 +2,16 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///home/k1bas4r0/Escritorio/cursojs/Addtodo": "__default__profile__"
+            "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d6a617661222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-java": "__default__profile__",
+            "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22696e7370656374566f6c756d65223a747275657d/workspaces/vscode-remote-try-rust": "__default__profile__",
+            "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-rust": "__default__profile__",
+            "file:///home/k1bas4r0/Escritorio/ONE_ORACLE/Backend": "__default__profile__",
+            "file:///home/k1bas4r0/eclipse-workspace/jreopk": "__default__profile__",
+            "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-rust": "__default__profile__",
+            "file:///home/k1bas4r0/Escritorio/cursojs/Addtodo": "__default__profile__",
+            "file:///home/k1bas4r0/eclipse-workspace": "__default__profile__",
+            "file:///home/k1bas4r0/Escritorio/POO": "__default__profile__",
+            "file:///home/k1bas4r0/personalProjects/Orfeo": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -12,7 +21,7 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/k1bas4r0/Escritorio/cursojs/Addtodo"
+                "folderUri": "file:///home/k1bas4r0/personalProjects/Orfeo"
             }
         ],
         "emptyWindows": []
@@ -64,12 +73,119 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/k1bas4r0/personalProjects/Orfeo",
+                                        "path": "/home/k1bas4r0/personalProjects/Orfeo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/personalProjects/Orfeo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/k1bas4r0/Escritorio/POO",
+                                        "path": "/home/k1bas4r0/Escritorio/POO",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Escritorio/POO"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/k1bas4r0/eclipse-workspace",
+                                        "path": "/home/k1bas4r0/eclipse-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/eclipse-workspace"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/k1bas4r0/Escritorio/cursojs/Addtodo",
                                         "path": "/home/k1bas4r0/Escritorio/cursojs/Addtodo",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Escritorio/cursojs/Addtodo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-rust",
+                                        "path": "/workspaces/vscode-remote-try-rust",
+                                        "scheme": "vscode-remote",
+                                        "authority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d"
+                                    },
+                                    "remoteAuthority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d",
+                                    "enabled": true,
+                                    "label": "vscode-remote-try-rust in a unique volume [Dev Container]"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/k1bas4r0/eclipse-workspace/jreopk",
+                                        "path": "/home/k1bas4r0/eclipse-workspace/jreopk",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/eclipse-workspace/jreopk"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/k1bas4r0/Escritorio/ONE_ORACLE/Backend",
+                                        "path": "/home/k1bas4r0/Escritorio/ONE_ORACLE/Backend",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Escritorio/ONE_ORACLE/Backend"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-rust",
+                                        "path": "/workspaces/vscode-remote-try-rust",
+                                        "scheme": "vscode-remote",
+                                        "authority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d"
+                                    },
+                                    "remoteAuthority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374227d2c22696e7370656374566f6c756d65223a66616c73657d",
+                                    "enabled": true,
+                                    "label": "/workspaces/vscode-remote-try-rust"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22696e7370656374566f6c756d65223a747275657d/workspaces/vscode-remote-try-rust",
+                                        "path": "/workspaces/vscode-remote-try-rust",
+                                        "scheme": "vscode-remote",
+                                        "authority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22696e7370656374566f6c756d65223a747275657d"
+                                    },
+                                    "remoteAuthority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d72757374222c22766f6c756d654e616d65223a227673636f64652d72656d6f74652d7472792d727573742d66346139383931373831396565383731356435373861393462393365326137383638383138386636383665316231646364383366656437653661623064333330222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d72757374222c22696e7370656374566f6c756d65223a747275657d",
+                                    "enabled": true,
+                                    "label": "/workspaces/vscode-remote-try-rust"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://dev-container%2B7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d6a617661222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661227d2c22696e7370656374566f6c756d65223a66616c73657d/workspaces/vscode-remote-try-java",
+                                        "path": "/workspaces/vscode-remote-try-java",
+                                        "scheme": "vscode-remote",
+                                        "authority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d6a617661222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661227d2c22696e7370656374566f6c756d65223a66616c73657d"
+                                    },
+                                    "remoteAuthority": "dev-container+7b227265706f7369746f727950617468223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661222c22766f6c756d654e616d65223a225f5f554e495155455f5f222c22666f6c646572223a227673636f64652d72656d6f74652d7472792d6a617661222c22636c6f6e65496e666f223a7b2275726c546f436c6f6e65223a2268747470733a2f2f6769746875622e636f6d2f4d6963726f736f66742f7673636f64652d72656d6f74652d7472792d6a617661227d2c22696e7370656374566f6c756d65223a66616c73657d",
+                                    "enabled": true,
+                                    "label": "vscode-remote-try-java in a unique volume [Dev Container]"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -462,7 +578,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -480,7 +597,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -717,8 +835,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1034,8 +1151,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1211,7 +1327,8 @@
             },
             "workbench.action.openSettings": {
                 "label": "Ctrl+,",
-                "userSettingsLabel": "ctrl+,"
+                "isNative": false,
+                "userSettingsLabel": "ctrl+[Comma]"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1281,8 +1398,8 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "Ctrl+/",
-                "userSettingsLabel": "ctrl+/"
+                "label": "Ctrl+Shift+7",
+                "userSettingsLabel": "ctrl+shift+7"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1366,27 +1483,18 @@
                 "userSettingsLabel": "ctrl+j"
             },
             "workbench.action.zoomIn": {
-                "label": "Ctrl+=",
-                "userSettingsLabel": "ctrl+="
+                "label": "Ctrl+Shift+0",
+                "userSettingsLabel": "ctrl+shift+0"
             },
             "workbench.action.zoomOut": {
                 "label": "Ctrl+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+-"
             },
             "workbench.action.zoomReset": {
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
-            },
-            "workbench.action.splitEditorUp": {
-                "label": "Ctrl+K Ctrl+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+\\"
-            },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1423,6 +1531,7 @@
             },
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+`"
             },
             "editor.action.toggleWordWrap": {
@@ -1431,10 +1540,12 @@
             },
             "workbench.action.navigateBack": {
                 "label": "Ctrl+Alt+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+alt+-"
             },
             "workbench.action.navigateForward": {
                 "label": "Ctrl+Shift+-",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+-"
             },
             "workbench.action.navigateToLastEditLocation": {
@@ -1528,10 +1639,6 @@
                 "label": "Ctrl+G",
                 "userSettingsLabel": "ctrl+g"
             },
-            "editor.action.jumpToBracket": {
-                "label": "Ctrl+Shift+\\",
-                "userSettingsLabel": "ctrl+shift+\\"
-            },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
                 "userSettingsLabel": "f8"
@@ -1590,6 +1697,7 @@
             },
             "workbench.action.terminal.new": {
                 "label": "Ctrl+Shift+`",
+                "isNative": false,
                 "userSettingsLabel": "ctrl+shift+`"
             },
             "workbench.action.terminal.split": {
@@ -1608,34 +1716,34 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#23272e",
+    "themeBackground": "#101116",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#23272e",
-            "editorBackground": "#23272e",
-            "titleBarBackground": "#23272e",
-            "activityBarBackground": "#23272e",
-            "sideBarBackground": "#1e2227",
-            "statusBarBackground": "#1e2227",
-            "statusBarNoFolderBackground": "#1e2227"
+            "foreground": "#ffffff",
+            "background": "#101116",
+            "editorBackground": "#101116",
+            "titleBarBackground": "#140009",
+            "activityBarBackground": "#101116",
+            "sideBarBackground": "#0a0b0e",
+            "statusBarBackground": "rgba(29, 0, 10, 0.9)",
+            "statusBarNoFolderBackground": "rgba(29, 0, 10, 0.9)"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/k1bas4r0/Escritorio/cursojs/Addtodo",
-            "backupPath": "/home/k1bas4r0/.config/Code/Backups/edcce5442d49f2e5f1787bcc66146273",
+            "folder": "file:///home/k1bas4r0/personalProjects/Orfeo",
+            "backupPath": "/home/k1bas4r0/.config/Code/Backups/fbc206718f302d25d1d99eeafc29295f",
             "uiState": {
                 "mode": 1,
                 "x": 12,
@@ -1645,6 +1753,5 @@
             }
         },
         "openedWindows": []
-    },
-    "window.experimental.useSandbox": true
+    }
 }

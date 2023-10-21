@@ -9,5 +9,9 @@
         "key": "escape",
         "command": "-extension.vim_escape",
         "when": "editorTextFocus && vim.active && !inDebugRepl"
+    },
+    {
+        "key": "ctrl+shift+r ctrl+shift+y",
+        "command": "java.debug.runJavaFile"
     }
 ]
