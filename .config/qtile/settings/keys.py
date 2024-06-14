@@ -59,7 +59,7 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
     ([mod, "shift"], "b", lazy.spawn("brave-nightly")),
 
     # File Explorer
-    ([mod], "e", lazy.spawn("pcmanfm-qt")),
+    ([mod], "e", lazy.spawn("pcmanfm")),
 
     # Terminal
     ([mod], "Return", lazy.spawn("kitty")),
@@ -91,4 +91,8 @@ keys = [Key(key[0], key[1], *key[2:]) for key in [
     # Brightness
     ([], "XF86MonBrightnessUp", lazy.spawn("brightnessctl set +10%")),
     ([], "XF86MonBrightnessDown", lazy.spawn("brightnessctl set 10%-")),
+
+    # Keyboard ditrib
+    ([mod, "control"], "1", lazy.spawn("setxkbmap us")),
+    ([mod, "control"], "2", lazy.spawn("setxkbmap es")),
 ]]

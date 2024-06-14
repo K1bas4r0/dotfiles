@@ -25,6 +25,7 @@ def autostart():
     subprocess.call([path.join(qtile_path, 'autostart.sh')])
 
 
+myBrowser = "brave-nightly"
 main = None
 dgroups_key_binder = None
 dgroups_app_rules = []

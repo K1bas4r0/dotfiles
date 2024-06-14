@@ -23,7 +23,10 @@ udiskie -t &
 # Java Fonts
 xsettingsd &
 # Wallpaper
-feh --bg-scale /home/k1bas4r0/Descargas/images/senkutelescopio.jpg &
+#
+# feh --bg-scale /home/k1bas4r0/Descargas/images/6129aca826695.jpg &
+# wallset -V /home/k1bas4r0/Descargas/wallp/xLnxhvPpUAx6hZ4_Jujutsu-Kaisen-4K_5_205027.mp4 &
+
 # Overlay Bar
 xob-pulse-py | xob -s pulse &
 xob-brightness-js | xob -s brightness &

@@ -50,7 +50,7 @@ source /home/k1bas4r0/powerlevel10k/powerlevel10k.zsh-theme
 
 # Manual configuration
 
-PATH=/root/.local/bin:/snap/bin:/usr/sandbox/:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/share/games:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+PATH=/root/.local/bin:/snap/bin:/usr/sandbox/:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/share/games:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/k1bas4r0/.cargo/bin
 
 XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
 
@@ -111,6 +111,7 @@ function kittman(){
 		Open new window in this terminal 		 [Super + Intro]
 		Close this window 				 [Super + W]
 		Move into windows 				 [Super + Alt + Arrows]
+		Rote ClockOrder this windows 			 [Super + B]
 
 		Zoom in/out terminal			 	 [Super + Z]
 		Resize this window 				 [Super + R]
@@ -163,3 +164,6 @@ bindkey "^[[F" end-of-line
 bindkey "^[[3~" delete-char
 bindkey "^[[1;3C" forward-word
 bindkey "^[[1;3D" backward-word
+
+# Created by `pipx` on 2023-11-09 17:20:33
+export PATH="$PATH:/home/k1bas4r0/.local/bin"
