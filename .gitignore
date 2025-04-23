@@ -1,0 +1,11 @@
+# ignore everything
+/*
+
+!.gitignore
+
+# Except for the files and folders I want to track
+!.zshrc
+!.xprofile
+!.p10k.zsh
+!.gtkrc-2.0
+!.config/
